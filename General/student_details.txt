@@ -1,0 +1,5 @@
+Roll number: 37, Details: ('Balaji', 20, 'Bsc', 480)
+Roll number: 30, Details: ('Aditya ', 25, 'BSc', 480)
+Roll number: 38, Details: ('Mangulu', 48, 'BSc', 480)
+Roll number: 26, Details: ('Sumeet ', 19, 'Bsc', 494)
+Roll number: 25, Details: ('Subham ', 20, 'BSc', 430)

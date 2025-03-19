@@ -1,0 +1,29 @@
+[
+    {
+        "name": "John Doe",
+        "age": 20,
+        "student_id": "S1001",
+        "grades": {
+            "math": 90,
+            "science": 85
+        }
+    },
+    {
+        "name": "Jane Smith",
+        "age": 22,
+        "student_id": "S1002",
+        "grades": {
+            "math": 88,
+            "science": 92
+        }
+    },
+    {
+        "name": "Alice Johnson",
+        "age": 21,
+        "student_id": "S1003",
+        "grades": {
+            "math": 95,
+            "science": 89
+        }
+    }
+]

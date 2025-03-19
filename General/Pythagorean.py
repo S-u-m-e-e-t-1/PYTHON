@@ -1,0 +1,5 @@
+a=int(input("a="))
+print("Pythagoras triad")
+print(2*a)
+print((a*a)-1)
+print((a*a)+1)
